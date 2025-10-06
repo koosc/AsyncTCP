@@ -23,7 +23,6 @@
 #define ASYNCTCP_H_
 
 #include "IPAddress.h"
-#include "IPv6Address.h"
 #include <functional>
 #include "lwip/ip_addr.h"
 #include "lwip/ip6_addr.h"
